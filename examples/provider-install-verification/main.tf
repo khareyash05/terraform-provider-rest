@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     hashicups = {
-      source = "registry.terraform.io/hashicorp/hashicups"
+      source = "hashicorp.com/edu/hashicups"
     }
   }
 }
